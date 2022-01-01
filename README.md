@@ -1,0 +1,2 @@
+# StellarisModInstaller
+Stellaris mod installer
